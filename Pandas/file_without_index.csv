@@ -1,0 +1,10 @@
+F,F<50,S,Slicing,SUM,SUB,MUL,DIV,DIV < 20,MUL > 99
+14,True,1,15.0,15,13,14,14.0,True,False
+35,True,3,38.0,38,32,105,11.666666666666666,True,True
+67,False,3,70.0,70,64,201,22.333333333333332,False,True
+84,False,4,88.0,88,80,336,21.0,False,True
+95,False,5,100.0,100,90,475,19.0,True,True
+67,False,67,134.0,134,0,4489,1.0,True,True
+8,True,8,,16,0,64,1.0,True,False
+34,True,34,,68,0,1156,1.0,True,True
+5,True,5,,10,0,25,1.0,True,False
